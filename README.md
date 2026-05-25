@@ -3,7 +3,7 @@
 A modern and responsive restaurant website designed for Spice Garden Restaurant, showcasing authentic Indian cuisine, menu highlights, online reservations, contact information, and a smooth user experience across all devices.
 
 ## Live Demo
-🔗 [View Website]((https://spice-garden-restaurant-1406.netlify.app/))
+🔗 [View Website](https://spice-garden-restaurant-1406.netlify.app/)
 
 ## Features
 - Responsive Design
